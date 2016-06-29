@@ -544,6 +544,7 @@ Could you do it without any loop/recursion in O(1) runtime?
  }
 ```
 呵呵哒
+呵你妹
 ```C++
 class Solution {
 public:
